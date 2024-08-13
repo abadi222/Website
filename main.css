@@ -1,0 +1,20 @@
+h1{text-align: center;
+     color: pink;
+    }
+.navbar ul{
+    list-style: none;
+    background-color: rgba(255, 20, 145, 0.326);
+   margin: 0px;
+
+}
+.navbar a{  
+    color:aliceblue;
+    text-decoration: none;
+    display: block;
+    padding: 1%;
+    text-align: center;
+}
+.navbar a:hover{
+    background-color: blue;
+} 
+body{background-color: rgba(255, 192, 203, 0.352);}
